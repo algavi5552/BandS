@@ -1,0 +1,12 @@
+D:\Projects\Паша\BugsAndStones\bin\Debug\BugsAndStones.exe.config
+D:\Projects\Паша\BugsAndStones\bin\Debug\BugsAndStones.exe
+D:\Projects\Паша\BugsAndStones\bin\Debug\BugsAndStones.pdb
+D:\Projects\Паша\BugsAndStones\obj\Debug\BugsAndStones.csprojAssemblyReference.cache
+D:\Projects\Паша\BugsAndStones\obj\Debug\BugsAndStones.exe
+D:\Projects\Паша\BugsAndStones\obj\Debug\BugsAndStones.pdb
+C:\Users\Admin\Desktop\тестовое задание\BugsAndStones\bin\Debug\BugsAndStones.exe.config
+C:\Users\Admin\Desktop\тестовое задание\BugsAndStones\bin\Debug\BugsAndStones.exe
+C:\Users\Admin\Desktop\тестовое задание\BugsAndStones\bin\Debug\BugsAndStones.pdb
+C:\Users\Admin\Desktop\тестовое задание\BugsAndStones\obj\Debug\BugsAndStones.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\тестовое задание\BugsAndStones\obj\Debug\BugsAndStones.exe
+C:\Users\Admin\Desktop\тестовое задание\BugsAndStones\obj\Debug\BugsAndStones.pdb
